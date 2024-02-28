@@ -1,9 +1,8 @@
 # DigitalFlake Web-Application
 
 <p align="center">
-![logo](https://github.com/shubhamj-26/DigitalFlakeApp/assets/129495808/e7cb6166-3d4d-412d-9b70-9d72caef955f)
-
-  
+  <a href="" rel="noopener">
+ <img width=300px height=200px src="https://digitalflake.com/wp-content/uploads/2023/04/DF_logo-transparent2.png" alt="DigitalFlake Logo"></a>
 </p>
 
 <h3 align="center">DigitalFlake Web-Application</h3>
