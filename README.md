@@ -27,6 +27,16 @@
 <!-- Example:
 ![Screenshot](https://example.com/screenshot.png)
 -->
+![Screenshot (613)](https://github.com/shubhamj-26/DigitalFlakeApp/assets/129495808/593a3b40-c5e9-4130-80e0-9fee887e4057)
+![Screenshot (614)](https://github.com/shubhamj-26/DigitalFlakeApp/assets/129495808/c2fdd5e8-0d12-49f0-8e7f-62f0c5895f52)
+![Screenshot (615)](https://github.com/shubhamj-26/DigitalFlakeApp/assets/129495808/be103328-7a7f-4001-9e02-25ada7b1b3de)
+![Screenshot (616)](https://github.com/shubhamj-26/DigitalFlakeApp/assets/129495808/53cf674c-5847-4690-a4e2-66b7849d0b58)
+![Screenshot (617)](https://github.com/shubhamj-26/DigitalFlakeApp/assets/129495808/f8b93dd6-9c9d-4f4c-b2ba-2aeeb3882aba)
+![Screenshot (618)](https://github.com/shubhamj-26/DigitalFlakeApp/assets/129495808/466d8d01-cc50-4193-b9f1-1baa081e9a9a)
+![Screenshot (619)](https://github.com/shubhamj-26/DigitalFlakeApp/assets/129495808/3798e806-0397-477d-8694-5498760d0674)
+![Screenshot (620)](https://github.com/shubhamj-26/DigitalFlakeApp/assets/129495808/96ba6cf0-fb9e-4fd2-bad5-e3c7a4a34ad1)
+![Screenshot (621)](https://github.com/shubhamj-26/DigitalFlakeApp/assets/129495808/c7b9f6a4-856d-48df-8772-997d5e8b7790)
+
 
 # DigitalFlake Web-Application
 
