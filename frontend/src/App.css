@@ -1,0 +1,200 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+}
+.h-custom {
+  height: calc(100% - 73px);
+}
+@media (max-width: 450px) {
+  .h-custom {
+  height: 100%;
+  }
+}
+
+.logo{
+  margin-top: -30px;
+  margin-left: 250px;
+  margin-bottom: 50px;
+}
+
+.welcome-msg{
+  color: gray;
+  font-size: x-large;
+  position: relative;
+  top: -50px;
+  left: 190px;
+  font-weight: 500;
+}
+
+.navbar-logo{
+  position: relative;
+  left: -200px;
+  top: 40px;
+  background-color: white;
+  border: 2px solid white; /* Example border style */
+  border-radius: 10px;
+}
+
+.profile-icon{
+  position: relative;
+  right: 100px;
+}
+
+.profile-icon{
+  position: fixed;
+}
+.user-icon {
+  font-size: x-large;
+  color: white;
+  
+}
+
+.navbar-div{
+  background-color: purple;
+  display: flex;
+}
+
+.popup-div{
+  background-color: whitesmoke;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  position: relative;
+  top: 160px;
+}
+
+.popup-actions button{
+  margin-right: 10px;
+}
+
+
+.sidebar{
+  position: fixed;
+  top: 160px;
+  left: 30px;
+  width: 200px;
+
+}
+
+.logo-home{
+  position: relative;
+  top: 200px;
+  left: 650px;
+}
+
+.home-label {
+  font-size: x-large;
+  position: relative;
+  font-weight: 500;
+  top: 290px;
+  left: 375px;
+}
+
+.categroy-first{
+  display: flex;
+  flex-direction: row;
+}
+
+.categroy-first input{
+  width: 200px;
+  margin-left: 100px;
+  margin-right: 200px;
+}
+
+.category-div{
+  position: relative;
+  top: 115px;
+  left: 500px;
+  display: flex;
+  flex-direction: row;
+}
+
+.category-div label{
+  font-weight: 700;
+  position: relative;
+  top: 4px;
+  font-size: larger;
+}
+
+
+.category-div div label{
+  margin: 10px;
+}
+
+.category-first input{
+  margin-right: 10px;
+  width: 250px;
+}
+
+.category-first select{
+  width: 250px;
+}
+
+.button-div{
+  position: relative;
+  top: 100px;
+  left: -170px;
+}
+
+.button-div button{
+  width: 80px;
+  height: 40px;
+}
+
+.add-category-label{
+  position: relative;
+  top: 110px;
+  left: 500px;
+  font-weight: 700;
+  font-size: x-large;
+}
+
+.get-category{
+  position: relative;
+  top: 220px;
+  left: 500px;
+}
+
+
